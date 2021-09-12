@@ -1,1 +1,1 @@
-# r-solution-num-rique-des-quations-diff-rentielles-ordinaires
+# resolution numerique des equations differentielles ordinaires
